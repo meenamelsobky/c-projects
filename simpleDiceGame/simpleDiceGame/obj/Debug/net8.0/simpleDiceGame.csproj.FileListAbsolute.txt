@@ -12,3 +12,4 @@ C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8
 C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.pdb
 C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.genruntimeconfig.cache
 C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\ref\simpleDiceGame.dll
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.sourcelink.json

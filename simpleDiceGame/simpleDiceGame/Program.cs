@@ -22,7 +22,8 @@
         }
         Console.WriteLine("\n\n\n.....");
         System.Threading.Thread.Sleep(1000);
-        if(playerPoints>enemyPoints) { Console.WriteLine("you win the game"); }
+        Console.WriteLine($"your score is {playerPoints} and enemy score is {enemyPoints}");
+        if (playerPoints>enemyPoints) { Console.WriteLine("you win the game"); }
         else if (playerPoints == enemyPoints) { Console.WriteLine("draw"); }
         else { Console.WriteLine("enemy won the game"); };
         Console.ReadKey();
