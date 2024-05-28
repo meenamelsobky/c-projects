@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\projects\toDoList\toDoList\bin\Debug\net8.0\toDoList.exe
+C:\Users\dell\source\repos\projects\toDoList\toDoList\bin\Debug\net8.0\toDoList.deps.json
+C:\Users\dell\source\repos\projects\toDoList\toDoList\bin\Debug\net8.0\toDoList.runtimeconfig.json
+C:\Users\dell\source\repos\projects\toDoList\toDoList\bin\Debug\net8.0\toDoList.dll
+C:\Users\dell\source\repos\projects\toDoList\toDoList\bin\Debug\net8.0\toDoList.pdb
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.AssemblyInfo.cs
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.sourcelink.json
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.dll
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\refint\toDoList.dll
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.pdb
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\toDoList.genruntimeconfig.cache
+C:\Users\dell\source\repos\projects\toDoList\toDoList\obj\Debug\net8.0\ref\toDoList.dll
