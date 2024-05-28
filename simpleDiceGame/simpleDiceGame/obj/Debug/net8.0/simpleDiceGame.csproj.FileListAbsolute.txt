@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\bin\Debug\net8.0\simpleDiceGame.exe
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\bin\Debug\net8.0\simpleDiceGame.deps.json
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\bin\Debug\net8.0\simpleDiceGame.runtimeconfig.json
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\bin\Debug\net8.0\simpleDiceGame.dll
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\bin\Debug\net8.0\simpleDiceGame.pdb
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.AssemblyInfo.cs
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.dll
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\refint\simpleDiceGame.dll
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.pdb
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\simpleDiceGame.genruntimeconfig.cache
+C:\Users\dell\source\repos\projects\simpleDiceGame\simpleDiceGame\obj\Debug\net8.0\ref\simpleDiceGame.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\projects\calculator\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\dell\source\repos\projects\calculator\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\dell\source\repos\projects\calculator\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\dell\source\repos\projects\calculator\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\dell\source\repos\projects\calculator\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\dell\source\repos\projects\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
